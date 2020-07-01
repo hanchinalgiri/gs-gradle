@@ -280,7 +280,7 @@ To make this code runnable, we can use gradle's `application` plugin. Add this t
 ----
 apply plugin: 'application'
 
-mainClassName = 'hello.HelloWorld'
+mainClassName = 'hello.LaunchBrowser'
 ----
 
 Then you can run the app!
